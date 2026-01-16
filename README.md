@@ -1,7 +1,7 @@
 ## 👋 Hi there, this is Kris!
 
 # 💫 About Me:
-🔭 I’m currently a graduant student in Computer Science at UPO, Italy<br>🌱 I’m currently learning Python by myself<br>💬 Ask me about anything, I like to learn new things every day<br>⚡ Fun fact: I studied electronics and robotics in High School and now I completely switched
+🔭 I graduated in Computer Science at UPO, Italy<br>🌱 I’m currently learning Python by myself<br>💬 Ask me about anything, I like to learn new things every day<br>⚡ Fun fact: I studied electronics and robotics in High School and now I completely switched
 
 
 ## 🌐 Socials:
